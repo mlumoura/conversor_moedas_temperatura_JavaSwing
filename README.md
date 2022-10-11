@@ -11,19 +11,19 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 
-<br><h3>Foram utilizados o framework Swing e a classe UIManager.</h3>  
+<br><h3>Foram utilizados o framework Swing e a classe UIMAnager.</h3>  
 
 
 Converte moedas nos seguintes formatos:
-		De Reais a Dólares, 
-                De Reais a Euros, 
-                De Reais a Libras Esterlinas, 
-                De Reais a Peso Argentino,  
-                De Reais a Peso Chileno, 
-                De Dólares a Reais, 
-                De Euros a Reais, 
-                De Libras Esterlinas a Reais, 
-                De Peso Argentino a Reais, 
+				De Reais a Dólares
+                De Reais a Euros
+                De Reais a Libras Esterlinas
+                De Reais a Peso Argentino
+                De Reais a Peso Chileno
+                De Dólares a Reais
+                De Euros a Reais
+                De Libras Esterlinas a Reais
+                De Peso Argentino a Reais
                 De Peso Chileno a Reais
                 
 e temperaturas:  
@@ -35,3 +35,8 @@ e temperaturas:
            
                 
 O valor das moedas é fixo, obtidos na internet no dia 10/10/2022
+
+<h2> Telas do Aplicativo </h2>
+ <p align="center">
+  <img src="TelasConversor1.png" />  <img src="TelasConversor2.png" />  <img src="TelasConversor3.png" /> <img src="TelasConversor4.png" />  <img src="TelasConversor5.png" />  <img src="TelasConversor6.png" />  <img src="TelasConversor7.png" />  <img src="TelasConversor8.png" />  <img src="TelasConversor9.png" />  <img src="TelasConversor10.png" /> 
+</p>
