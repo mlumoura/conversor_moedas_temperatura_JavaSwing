@@ -15,15 +15,15 @@
 
 
 Converte moedas nos seguintes formatos:
-				De Reais a Dólares
-                De Reais a Euros
-                De Reais a Libras Esterlinas
-                De Reais a Peso Argentino
-                De Reais a Peso Chileno
-                De Dólares a Reais
-                De Euros a Reais
-                De Libras Esterlinas a Reais
-                De Peso Argentino a Reais
+		De Reais a Dólares, 
+                De Reais a Euros, 
+                De Reais a Libras Esterlinas, 
+                De Reais a Peso Argentino,  
+                De Reais a Peso Chileno, 
+                De Dólares a Reais, 
+                De Euros a Reais, 
+                De Libras Esterlinas a Reais, 
+                De Peso Argentino a Reais, 
                 De Peso Chileno a Reais
                 
 e temperaturas:  
