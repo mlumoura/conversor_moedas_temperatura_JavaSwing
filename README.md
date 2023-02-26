@@ -1,5 +1,5 @@
 <h1 align="center"> Conversor de Moedas e Temperaturas </h1>
-<h2 align="center"> Este projeto foi  feito para o Sprint 01 - Challenge ONE Java após o término da formação Java e Orientação a Objetos F2T2 - ONE </h2><br>
+<h2 align="center"> Este projeto foi feito baseado no Sprint 01 - Challenge ONE Java </h2><br>
 
 <p align="center">
   <img src="conversor.png" />
